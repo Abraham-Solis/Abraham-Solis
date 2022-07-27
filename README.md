@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abraham-Solis
 - 👀 I’m interested in ... web development
 - 🌱 I’m currently learning ... Full Stack
-- 💞️ I’m looking to collaborate on ... future Porjects
+- 💞️ I’m looking to collaborate on ... future Projects
 - 📫 How to reach me ... abe.solis2015@gmail.com
 
 <!---
